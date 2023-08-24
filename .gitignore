@@ -1,0 +1,25 @@
+# library
+*.a
+*.so
+*.dll
+*.lib
+
+# object
+*.o
+
+# IDEA
+.idea
+.vscode
+
+# build
+build*
+cmake-build*
+bin
+
+# clangd
+.cache
+
+# doxygen
+doc/html
+doc/latex
+Doxyfile.bak
